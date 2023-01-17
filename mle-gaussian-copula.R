@@ -1,9 +1,10 @@
 #############################################################################
 #                                                                           #
-#       PROGRAM: cusum-betareg-control-chart.R								              #
+#       PROGRAM: mle-gaussian-copula.R        								              #
 #                                                                           #
-#       USAGE: Computation of the CUSUM beta regression control chart       #
-#              using the quantile residual                                  #                                             #                                                                           #
+#       USAGE: Computation of the maximum likelihood estimators and         #
+#              negative log-likelihood estimates for the bivariate          #
+#              Gaussian copula                                              #                                             #                                                                           #                                             
 #       AUTHOR: Cristine Rauber Oliveira	                                  #
 #							                                                              #
 #############################################################################
