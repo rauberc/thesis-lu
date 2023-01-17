@@ -1,3 +1,13 @@
+#############################################################################
+#                                                                           #
+#       PROGRAM: cusum-betareg-control-chart.R								              #
+#                                                                           #
+#       USAGE: Computation of the CUSUM beta regression control chart       #
+#              using the quantile residual                                  #                                             #                                                                           #
+#       AUTHOR: Cristine Rauber Oliveira	                                  #
+#							                                                              #
+#############################################################################
+
 # loading the packages
 library(extRemes)
 library(tidyverse)
